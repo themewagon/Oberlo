@@ -1,4 +1,4 @@
-# Netic - Free Bootstrap Web Hosting Website Template
+# Oberlo - Free Bootstrap Car Shop Website Template
 
 #### Preview
 
